@@ -24,6 +24,8 @@ public class conexion {
     
     public static boolean buscaRutCli;
     
+    public String saludo="hola";
+    
     public static void conectar()
     {
         try {
